@@ -39,7 +39,7 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6n0061_000.yaml, hash: 'sha256:747e6f4ffa71b0061e871ab16cdfab3c29d281f38bc3330a1ffe3dc653f374f0'}
+  - {seq: 0, filename: KR6n0061_000.yaml, hash: 'sha256:b3d658b40301e66786c603d60873e89464255856837f9af681cdb5d8e857fb68'}
   - {seq: 1, filename: KR6n0061_001.yaml, hash: 'sha256:474be69bb9e5e818b55030d19819fb477368ccefb94cd034054cadf54242e68b'}
   - {seq: 2, filename: KR6n0061_002.yaml, hash: 'sha256:2383975e5e6fc42546dd8284127154c920ff784ab4eef4ca512a6a3ab394c15f'}
   - {seq: 3, filename: KR6n0061_003.yaml, hash: 'sha256:cd128ceb3762aeef1bc632cea0608f50483e55e4fcfecc321a2c44fb5025af1e'}
@@ -56,7 +56,7 @@ assets:
   - {seq: 14, filename: KR6n0061_014.yaml, hash: 'sha256:759692cc4b6819d47a48b96fa81aaeae3efd87098443547aa363714f1711c039'}
   - {seq: 15, filename: KR6n0061_015.yaml, hash: 'sha256:6709b88383fbe2d6ad23e59885ddc92e4f74d3e6128b82baea8c703fee7a1ae9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6n0061_000.markers.yaml, hash: 'sha256:01dc538af8e22d33cb186ffd84ba784525b50d608e603305a27e970a3bf49152'}
+  - {seq: 0, role: markers, filename: assets/KR6n0061_000.markers.yaml, hash: 'sha256:f3e87056f71d5de2b3f2c53041995749445046dce8c0c05c701a1b9051f89094'}
   - {seq: 1, role: markers, filename: assets/KR6n0061_001.markers.yaml, hash: 'sha256:da0ab47ac221241b1976a80181e7aa3fd56f724abcee54c9c06049c1c8a83e46'}
   - {seq: 2, role: markers, filename: assets/KR6n0061_002.markers.yaml, hash: 'sha256:69e0e26e1dca0ed938bce551a696a76426112d4e78b04ee563c2df3e2dc575b7'}
   - {seq: 3, role: markers, filename: assets/KR6n0061_003.markers.yaml, hash: 'sha256:f22d28e9f51192b00ef0735fc36971b38458b554abc403530b4db0f8bfcb45d9'}
@@ -77,7 +77,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0061_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -87,7 +87,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0061_T_000-mulu-2
     span:
-    - front
+    - body
     - 504
     - 504
   label: 攝大乘論釋序
@@ -913,7 +913,7 @@ table_of_contents:
   label: 攝大乘論釋卷第十五
   type: juan
   level: 1
-hash: sha256:bb8443edbd6b8c8b54b17c778f88340caa9f94fbb27827eadca39de64f8f84f0
+hash: sha256:dd0e6d7959c23d313ec20cde39b028064ba258aaf97187a6e20629c3c300be3f
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

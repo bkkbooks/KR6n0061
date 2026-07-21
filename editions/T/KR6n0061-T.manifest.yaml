@@ -19,7 +19,7 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6n0061_000-T.yaml, hash: 'sha256:624116e30d67c79eea6001783f40aad5946d03e9df8652edbfe9c079e9282b69'}
+  - {seq: 0, filename: KR6n0061_000-T.yaml, hash: 'sha256:69b6fde263e0ffe4ce71e00cf889c81e533044909084d9986133592cd658eb85'}
   - {seq: 1, filename: KR6n0061_001-T.yaml, hash: 'sha256:92027ecacc80029cee20f2419ca94ca7d1fbe658a935f6ec46359a2b07804591'}
   - {seq: 2, filename: KR6n0061_002-T.yaml, hash: 'sha256:4f18d58c5a3f88349b03ad703647d875abecee90975d1daef0601fe9807bfb7f'}
   - {seq: 3, filename: KR6n0061_003-T.yaml, hash: 'sha256:5f142966d136755f4c9b8c6e855b6e55e9cfedf29a05bcaa7f7fa0816b40a002'}
@@ -36,7 +36,7 @@ assets:
   - {seq: 14, filename: KR6n0061_014-T.yaml, hash: 'sha256:e3945ab2301627f734fa4a583ffbd97aed54a4f2d7fd6da90783dc88cb839c25'}
   - {seq: 15, filename: KR6n0061_015-T.yaml, hash: 'sha256:cc74fe6d33e3bc5a068fd17f9fb0d12095133b3f14a4b3491b0e310093e2efda'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6n0061_000-T.markers.yaml, hash: 'sha256:43a04ce733952fde06c82125dba1b11d53c94acd9131da9e6572b6c08dcbb017'}
+  - {seq: 0, role: markers, filename: assets/KR6n0061_000-T.markers.yaml, hash: 'sha256:4770f4d2efd45910d39754a85fd3c01eb962a94f77ea982ba17212a792f77b4c'}
   - {seq: 1, role: markers, filename: assets/KR6n0061_001-T.markers.yaml, hash: 'sha256:a8724abddc77c8e3c552a6749e9c1f5400037434a03ed61408b1e6a4751b682f'}
   - {seq: 2, role: markers, filename: assets/KR6n0061_002-T.markers.yaml, hash: 'sha256:d58772944febc175581d38ac6cb1a6b49a17ea78d59e8035500c879f6da8b2a3'}
   - {seq: 3, role: markers, filename: assets/KR6n0061_003-T.markers.yaml, hash: 'sha256:58b0263646c177fa5d45ab9b4f0b49e4a7b7df4f9c1f87c1a5821e516a096d55'}
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0061_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0061_T_000-mulu-2
     span:
-    - front
+    - body
     - 504
     - 504
   label: 攝大乘論釋序
@@ -893,4 +893,4 @@ table_of_contents:
   label: 攝大乘論釋卷第十五
   type: juan
   level: 1
-hash: sha256:210b791b12632cce850c4947192c9969033361bfeaa296644ae6caa3fd914a91
+hash: sha256:bed9fd7befcfa0f00d3d11b5099db68a4d9e7b78ca5135d46d72354dc03e264d
